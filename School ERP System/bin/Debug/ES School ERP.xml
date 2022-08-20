@@ -1,0 +1,3898 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ESSchoolERP
+</name>
+</assembly>
+<members>
+<member name="T:School_ERP_System.SchoolDBDataSet1.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Book_RIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePayment_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DesignationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DiscountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Discount_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DocumentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Exam_SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.FeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_BusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.JournalAndMagazinesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.NewsPaperDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Newspaper_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Quotation_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Session_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Staff_DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentDocSubmittedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Book_RIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePayment_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DesignationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DiscountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Discount_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DocumentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Exam_SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.FeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_BusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.JournalAndMagazinesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.NewsPaperRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Newspaper_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Quotation_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Session_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Staff_DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentDocSubmittedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.AttendanceTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Book_RIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookIssue_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BookReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusCardHolder_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusFeePayment_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.BusInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ClassTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.CourseFeePayment_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DesignationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DiscountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Discount_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.DocumentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Exam_SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExamTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.FeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.HostelInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_BusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Installment_HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.JournalAndMagazinesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.NewsPaperRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Newspaper_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Quotation_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Return_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SchoolTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Session_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Staff_DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StaffPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.StudentDocSubmittedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.AttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.AttendanceMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.AttendanceTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Book_RITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BookClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BookIssue_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BookIssue_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BookReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BusCardHolder_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BusCardHolder_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BusFeePayment_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BusFeePayment_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.BusInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ClassTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.CourseFeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.CourseFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.CourseFeePayment_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.DesignationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.DiscountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Discount_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.DocumentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ExamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Exam_SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ExamTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.FeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.HostelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.HostelFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.HostelInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Installment_BusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Installment_HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.JournalAndMagazinesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.NewsPaperTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Newspaper_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Quotation_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Return_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Return_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SchoolInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SchoolTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Session_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Staff_DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.StaffAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.StaffPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.StudentDocSubmittedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SubCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(School_ERP_System.SchoolDBDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(School_ERP_System.SchoolDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(School_ERP_System.SchoolDBDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.UpdateAll(School_ERP_System.SchoolDBDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:School_ERP_System.Encryption.Boring(System.String)">
+	<summary>
+ moving all characters in string insert then into new index
+ </summary>
+	<param name="st">string to moving characters</param>
+	<returns>moved characters string</returns>
+</member><member name="P:School_ERP_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources._1__16_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources._12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources._1425837994checkIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources._8589130422101_back_to_school_wallpaper_hd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources._884410_school_wallpaper">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.abstract_set_awesome_1449569">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Actions_help_about_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Activate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.add_stock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.all_things_of_studies_back_to_school">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.back_to_school">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.back_to_school_powerpoint_backgrounds">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.basket_full_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.bg_student3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Books_2_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.boy_kid_glasses_blackboard_school_hd_wallpaper_1920x1080">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Button_Delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Button_Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Clipboard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.custom_reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Database">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Database_Active_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.database_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Doc___Google_Docs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.engineer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.find_customer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.gnome_panel_force_quit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.help_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.icon_documentation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.images_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.images_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.images_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.images11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.kcK56zncj">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.log_1281">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.login_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Logout_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Logs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Logs1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Money">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.money0012">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.new_customers">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.payment_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.register">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.register1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.register2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.reports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.School_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.School001">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.schoolhouse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Student_3_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.teacher_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.top_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.university_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.unnamed">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.user_regestration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Utilities_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.Utilities_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:School_ERP_System.My.Resources.Resources.ycard_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:School_ERP_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Book_RIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePayment_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DesignationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DiscountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Discount_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DocumentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Exam_SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.FeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_BusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.JournalAndMagazinesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.NewsPaperDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Newspaper_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Quotation_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Session_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Staff_DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentDocSubmittedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Book_RIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePayment_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DesignationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DiscountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Discount_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DocumentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Exam_SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.FeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_BusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.JournalAndMagazinesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.NewsPaperRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Newspaper_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Quotation_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Session_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Staff_DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentDocSubmittedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.AttendanceTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Book_RIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookIssue_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BookReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusCardHolder_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusFeePayment_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.BusInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ClassTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.CourseFeePayment_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DesignationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DiscountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Discount_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.DocumentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Exam_SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExamTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.FeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.HostelInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_BusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Installment_HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.JournalAndMagazinesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.NewsPaperRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Newspaper_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Quotation_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Return_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SchoolTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Session_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Staff_DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StaffPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.StudentDocSubmittedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.AttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.AttendanceMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.AttendanceTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Book_RITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BookClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BookIssue_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BookIssue_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BookReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BusCardHolder_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BusCardHolder_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BusFeePayment_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BusFeePayment_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.BusInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ClassTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.CourseFeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.CourseFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.CourseFeePayment_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.DesignationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.DiscountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Discount_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.DocumentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ExamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Exam_SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ExamTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.FeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.HostelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.HostelFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.HostelInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Installment_BusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Installment_HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.JournalAndMagazinesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.NewsPaperTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Newspaper_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Quotation_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Return_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Return_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SchoolInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SchoolTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Session_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Staff_DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.StaffAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.StaffPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.StudentDocSubmittedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SubCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(School_ERP_System.SchoolDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(School_ERP_System.SchoolDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(School_ERP_System.SchoolDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.UpdateAll(School_ERP_System.SchoolDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ActivationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AdvanceEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Book_RIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookReservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePayment_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DesignationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DiscountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Discount_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DocumentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.EmailSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Exam_SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.FeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.GradeMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelFeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HouseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_BusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.InvoiceInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSubCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.JournalAndMagazinesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntry_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.NewsPaperDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Newspaper_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Product_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Quotation_JoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolInfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolTypeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Session_MasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SMSSettingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Staff_DepartmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffPaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Stock_ProductDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Student_SubjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentDocSubmittedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubCategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierLedgerBookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Temp_StockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Voucher_OtherDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ActivationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AdvanceEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Book_RIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookReservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePayment_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DesignationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DiscountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Discount_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DocumentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.EmailSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Exam_SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.FeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.GradeMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelFeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HouseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_BusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.InvoiceInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSubCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.JournalAndMagazinesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntry_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.NewsPaperRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Newspaper_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Product_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Quotation_JoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolInfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolTypeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Session_MasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SMSSettingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Staff_DepartmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffPaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Stock_ProductRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Student_SubjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentDocSubmittedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubCategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierLedgerBookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Temp_StockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Voucher_OtherDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ActivationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AdvanceEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.AttendanceTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Book_RIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookIssue_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BookReservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusCardHolder_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusFeePayment_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.BusInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ClassTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.CourseFeePayment_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DesignationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DiscountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Discount_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.DocumentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.EmailSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Exam_SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExamTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ExpenseTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.FeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.GradeMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelFeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HostelInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.HouseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_BusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Installment_HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Invoice_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.InvoiceInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSubCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.INVSupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.JournalAndMagazinesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.LogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.MarksEntry_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.NewsPaperRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Newspaper_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Product_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Quotation_JoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Return_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolInfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SchoolTypeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Session_MasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SMSSettingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Staff_DepartmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StaffPaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Stock_ProductRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Student_SubjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.StudentDocSubmittedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubCategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.SupplierLedgerBookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Temp_StockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2.Voucher_OtherDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ActivationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.AdvanceEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.AttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.AttendanceMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.AttendanceTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Book_RITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BookClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BookIssue_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BookIssue_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BookReservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BusCardHolder_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BusCardHolder_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BusFeePayment_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BusFeePayment_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.BusInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ClassTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ClassTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.CourseFeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.CourseFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.CourseFeePayment_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.DesignationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.DiscountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Discount_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.DocumentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.EmailSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ExamTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Exam_SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ExamTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ExpenseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ExpenseTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.FeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.GradeMasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.HostelerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.HostelFeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.HostelInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.HouseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Installment_BusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Installment_HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.INVCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Invoice_PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Invoice_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.InvoiceInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.INVSubCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.INVSupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.JournalAndMagazinesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.LedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.LocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.LogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.MarksEntryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.MarksEntry_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.NewsPaperTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Newspaper_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Product_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Quotation_JoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Return_StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Return_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SchoolInfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SchoolTypeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Session_MasterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SMSSettingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StaffTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Staff_DepartmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StaffAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StaffPaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Stock_ProductTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Student_SubjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.StudentDocSubmittedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SubCategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SupplierTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.SupplierLedgerBookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Temp_StockTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.Voucher_OtherDetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(School_ERP_System.SchoolDBDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(School_ERP_System.SchoolDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(School_ERP_System.SchoolDBDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.UpdateAll(School_ERP_System.SchoolDBDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:School_ERP_System.SchoolDBDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

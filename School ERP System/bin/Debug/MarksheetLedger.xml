@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MMPractical" type="xs:int" minOccurs="0" />
+              <xs:element name="S_Id" type="xs:int" minOccurs="0" />
+              <xs:element name="SchoolName" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="ContactNo" type="xs:string" minOccurs="0" />
+              <xs:element name="AltContactNo" type="xs:string" minOccurs="0" />
+              <xs:element name="FaxNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Email" type="xs:string" minOccurs="0" />
+              <xs:element name="Website" type="xs:string" minOccurs="0" />
+              <xs:element name="Logo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="RegistrationNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EstablishedYear" type="xs:int" minOccurs="0" />
+              <xs:element name="SchoolType" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EnrollmentNo" type="xs:string" minOccurs="0" />
+              <xs:element name="GRNo" type="xs:string" minOccurs="0" />
+              <xs:element name="UID" type="xs:string" minOccurs="0" />
+              <xs:element name="StudentName" type="xs:string" minOccurs="0" />
+              <xs:element name="FatherName" type="xs:string" minOccurs="0" />
+              <xs:element name="MotherName" type="xs:string" minOccurs="0" />
+              <xs:element name="FatherCN" type="xs:string" minOccurs="0" />
+              <xs:element name="PermanentAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="TemporaryAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr1" type="xs:string" minOccurs="0" />
+              <xs:element name="EmailID" type="xs:string" minOccurs="0" />
+              <xs:element name="DOB" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Gender" type="xs:string" minOccurs="0" />
+              <xs:element name="AdmissionDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Session" type="xs:string" minOccurs="0" />
+              <xs:element name="Caste" type="xs:string" minOccurs="0" />
+              <xs:element name="Religion" type="xs:string" minOccurs="0" />
+              <xs:element name="SectionID" type="xs:int" minOccurs="0" />
+              <xs:element name="Photo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Nationality" type="xs:string" minOccurs="0" />
+              <xs:element name="SchoolID" type="xs:int" minOccurs="0" />
+              <xs:element name="LastSchoolAttended" type="xs:string" minOccurs="0" />
+              <xs:element name="Result" type="xs:string" minOccurs="0" />
+              <xs:element name="PassPercentage" type="xs:string" minOccurs="0" />
+              <xs:element name="Status" type="xs:string" minOccurs="0" />
+              <xs:element name="M_Id" type="xs:int" minOccurs="0" />
+              <xs:element name="Expr2" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr3" type="xs:string" minOccurs="0" />
+              <xs:element name="EntryDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Student_Class" type="xs:string" minOccurs="0" />
+              <xs:element name="MJ_Id" type="xs:int" minOccurs="0" />
+              <xs:element name="SubCode" type="xs:string" minOccurs="0" />
+              <xs:element name="MaxMarks" type="xs:int" minOccurs="0" />
+              <xs:element name="CreditHour" type="xs:int" minOccurs="0" />
+              <xs:element name="OGTheory" type="xs:string" minOccurs="0" />
+              <xs:element name="OMTheory" type="xs:int" minOccurs="0" />
+              <xs:element name="OGPractical" type="xs:string" minOccurs="0" />
+              <xs:element name="OMPractical" type="xs:int" minOccurs="0" />
+              <xs:element name="FinalGrade" type="xs:string" minOccurs="0" />
+              <xs:element name="GradePoint" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MarksID" type="xs:int" minOccurs="0" />
+              <xs:element name="SubjectCode" type="xs:string" minOccurs="0" />
+              <xs:element name="SubjectName" type="xs:string" minOccurs="0" />
+              <xs:element name="Class" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,244 @@
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe.config
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\ERP System.pdb
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\ERP System.xml
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.Resources.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.vbproj.GenerateResource.Cache
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.exe
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.xml
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.pdb
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSection.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmMain.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDepartment.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFee.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAbout.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSplash.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmChangePassword.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLogin.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmRegistration.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLocation.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDocument.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudent.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.vbprojResolveAssemblyReference.cache
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelInfo.resources
+C:\Users\raj\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe.config
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.exe
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.xml
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.pdb
+C:\Users\raj\Desktop\ERP System\ERP System\bin\Debug\ERP System.exe
+C:\Users\raj\Desktop\ERP System\ERP System\bin\Debug\ERP System.pdb
+C:\Users\raj\Desktop\ERP System\ERP System\bin\Debug\ERP System.xml
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.vbprojResolveAssemblyReference.cache
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelInfo.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmRoom.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmRoomRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSection.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSectionRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudent.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassFee.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDocument.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLocation.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAbout.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmChangePassword.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFee.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDepartment.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLogin.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLoginDetails.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmMain.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmPasswordRecovery.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmRegistration.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClass.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSplash.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.Resources.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP System.vbproj.GenerateResource.Cache
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSchoolInfo.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord1.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHosteler.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelerRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord2.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelerRecord1.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSystemInfo.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Bus.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Hostel.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolders_StudentRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_Student.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord3.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolders_StudentRecord1.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDiscount.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_Student.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolders_StudentRecord2.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePaymentRecord_Student.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePayment.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelerRecord2.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePaymentRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePaymentRecord_Student1.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePaymentRecord1.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord4.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePayment.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePaymentRecord.resources
+C:\Users\raj\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePaymentRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePaymentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePayment.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDiscount.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_Student.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Hostel.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Bus.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelerRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHosteler.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSchoolInfo.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSystemInfo.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLogs.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSchoolType.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassType.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClass.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassFeeInfo.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCamera.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSectionRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\TouchlessLib.pdb
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\TouchlessLib.xml
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_StudentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\bin\Debug\TouchlessLib.dll
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCards.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassTransfer.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmNoDues_Docs.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSession.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffCardRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffNoDuesRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentsNoDuesRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentsCardRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDesignation.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmActivation.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntry.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryReport.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendance.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendanceEntryRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendanceEntryRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmReport.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPayment.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusInfo.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInactive.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_StaffRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_Staff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentReport.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSalaryslip.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucherRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucher.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucherReport.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord1.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePayment.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePaymentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_Student.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_StudentRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDiscount_Staff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeeReceipt_Student.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeeReceipt.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFeeStructure.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassFeeReceipt.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmPartialDueList.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFullDueList.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_Staff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_StaffRecord.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeeReceipt_Staff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmPartialDueList_Staff.resources
+C:\Users\Raj Sharma\Desktop\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFullDueList_Staff.resources
+E:\Projects\ERP System\ERP System\bin\Debug\ERP System.exe.config
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP System.exe
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP System.xml
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP System.pdb
+E:\Projects\ERP System\ERP System\bin\Debug\ERP System.exe
+E:\Projects\ERP System\ERP System\bin\Debug\ERP System.pdb
+E:\Projects\ERP System\ERP System\bin\Debug\ERP System.xml
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP System.vbprojResolveAssemblyReference.cache
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFullDueList_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmPartialDueList_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeeReceipt_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_StaffRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFullDueList.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmPartialDueList.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassFeeReceipt.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFeeStructure.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDiscount_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_StudentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeePayment_Student.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePaymentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeePayment.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusFeeReceipt_Student.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelFeeReceipt.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord1.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePaymentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCourseFeePayment.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucherReport.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_StaffRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_Staff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucherRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmVoucher.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSalaryslip.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentRecord1.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInactive.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusInfo.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmActivation.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntry.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryRecord1.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAdvanceEntryReport.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendance.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendanceEntryRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAttendanceEntryRecord1.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCards.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassTransfer.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDesignation.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPayment.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffPaymentReport.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHostelerRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmHosteler.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmNoDues_Docs.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmReport.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSession.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaff.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffCardRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffNoDuesRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStaffRecord1.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentsNoDuesRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_StudentRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmBusCardHolder_Student.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudent.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmCamera.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSectionRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDiscount.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Hostel.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmInstallment_Bus.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassFeeInfo.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSection.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmFee.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLocation.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDepartment.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmDocument.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClassType.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmhostelInfo.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSchoolInfo.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLogs.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSchoolType.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmAbout.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmChangePassword.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmLogin.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmMain.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmRegistration.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSplash.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmClass.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmStudentsCardRecord.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.frmSystemInfo.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP_System.Resources.resources
+E:\Projects\ERP System\ERP System\obj\x86\Debug\ERP System.vbproj.GenerateResource.Cache

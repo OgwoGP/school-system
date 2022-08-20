@@ -1,0 +1,11 @@
+Update Features List
+=======================================================
+<li>Student ID Card Generation Added.</li>
+<li>Import Bulk Student From Excel File Added.</li>
+<li>Library Module Bugs Fixed.</li>
+<li>ID Card Report Added.</li>
+<li>Voucher By Date Report Added.</li>
+<li>SMS And Email Notification Module Added.</li>
+<li>Import Staff Record From Excel File Added.</li>
+<li>Third Part Integration Removed.</li>
+<li>New Cool Design and Reports Layout.</li>
